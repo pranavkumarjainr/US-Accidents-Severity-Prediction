@@ -42,5 +42,3 @@ To classify accident severity (on a scale of 1 to 4) using a variety of machine 
 - Improve data visualizations for better EDA
 - Add SHAP for model explainability
 
-## 📁 Project Structure
-
